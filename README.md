@@ -1,7 +1,7 @@
 [Uploading README.md…]()
 # Schelling's Segregation Model: A Numerical Map of Tolerance and Tipping Points
 
-Maggie Deng and Avery Mangum · Math 123A final project, December 2025
+Maggie Deng and Avery Mangum · Math 123A final project, April 2025
 📄 [Slides](docs/Schelling_numerical_analysis_slides.pdf)
 
 <p align="center">
